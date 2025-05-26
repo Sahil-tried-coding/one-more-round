@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "types": ["node"],
     "paths": {
+
       "@/*": ["src/*"]
     },
     // keep other options like strict, jsx, etc.
